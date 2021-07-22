@@ -1,4 +1,4 @@
-FROM docker:18.09
+FROM tomcat:latest
 
 LABEL maintainer="Nidhi Gupta"
 
